@@ -1,0 +1,3 @@
+file berikut (KodeBuku) adalah kode sederhana untuk program menjadi dan membeli satu atau lebih dari buku. dengan informasi 
+buku yang terdapat pada masing-masing array yang dimana masing-masing array itu mewakili point-point dari buku, seperti kode buku, judul bukku, nama pengarang,
+dan harga buku itu. output dari program ini menggunakan javax swing
